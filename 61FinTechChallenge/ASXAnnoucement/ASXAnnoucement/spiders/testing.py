@@ -12,7 +12,7 @@ Parse the announcement on https://www.asx.com.au/asx/statistics/todayAnns.do
 class MySpider1(scrapy.Spider):
 
     name = 'asx'
-    start_urls = ['https://www.asx.com.au/asx/statistics/prevBusDayAnns.do']
+    start_urls = ['https://www.asx.com.au/asx/statistics/todayAnns.do']
     annoucement = dict()
 
     def parse(self, response):
