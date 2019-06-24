@@ -1,0 +1,256 @@
+1561179430776	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ngjun\\AppData\\Local\\Temp\\rust_mozprofile.qY05FNJoba3N"
+1561179431912	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561179431912	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1561179431913	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561179431913	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561179436064	Marionette	INFO	Listening on port 64428
+1561179436234	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/angularjs/1.2.0rc1/angular-sanitize.min.js, line 14: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.asx.com.au/app/ci/js/combined.app.8c319a73.js, line 4: ReferenceError: DJ is not defined
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 12196, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1560433010/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12196, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1560433010/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1560433010/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9368, Chrome_ChildThr[Child 14228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1560433010/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14228,[Parent 12196, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1560433010/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1560433010/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12344, Chrom1561179450074	Marionette	INFO	Stopped listening on port 64428
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1561179485146	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ngjun\\AppData\\Local\\Temp\\rust_mozprofile.AiH7kOKdHsep"
+1561179486202	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561179486202	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1561179486203	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561179486203	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561179489840	Marionette	INFO	Listening on port 64537
+1561179490127	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 9780, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1560433010/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1560433010/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child[Child 15128, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1560433010/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15128,[Parent 9780, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1560433010/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1560433010/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12796, Ch1561179502874	Marionette	INFO	Stopped listening on port 64537
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1561179512822	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ngjun\\AppData\\Local\\Temp\\rust_mozprofile.RN4qWaZkHw9w"
+1561179513924	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561179513924	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1561179513925	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561179513925	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561179517637	Marionette	INFO	Listening on port 64575
+1561179517774	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/angularjs/1.2.0rc1/angular-sanitize.min.js, line 14: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.asx.com.au/app/ci/js/combined.app.8c319a73.js, line 4: ReferenceError: DJ is not defined
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:443:26\ngetGrids@resource://devtools/server/actors/layout.js:448:43\nhandler@resource://devtools/shared/protocol.js:1189:37\nonPacket@resource://devtools/server/main.js:1291:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+JavaScript error: chrome://browser/content/browser-customization.js, line 169: NS_ERROR_NOT_INITIALIZED: 
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context18' can't be sent as the connection is closed."
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: [Child 16108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1560433010/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16[Child 5136, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1560433010/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5136,[Parent 12476, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1560433010/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1560433010/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15584, Chr1561179713025	Marionette	INFO	Stopped listening on port 64717
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n/ipc_channel_win.cc, line 341
+[Child 10004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1560433010/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10004, [Parent 15032, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1560433010/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1560433010/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 131561179678358	Marionette	INFO	Stopped listening on port 64575
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[G
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1561182675792	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ngjun\\AppData\\Local\\Temp\\rust_mozprofile.Bd8DQ87DLo7b"
+1561182676876	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561182676877	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1561182676877	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561182676877	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561182680518	Marionette	INFO	Listening on port 65387
+1561182680755	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 7600, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1560433010/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 7600, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1560433010/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1560433010/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, lin[Child 31e 341
+52, Chrome[Chil_d 10C512, hildThread] WARNING: pipe error: 109: file z:/task_1560433010/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 315[Parent 7600, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1560433010/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1560433010/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11296, Ch1561182692159	Marionette	INFO	Stopped listening on port 65387
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1561182752924	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ngjun\\AppData\\Local\\Temp\\rust_mozprofile.jABqDSO5rupt"
+1561182754010	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561182754010	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1561182754011	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561182754011	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561182757630	Marionette	INFO	Listening on port 65447
+1561182757888	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 14008, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1560433010/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 14008, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1560433010/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1560433010/build/src/i[Child 11384p, Chrome_ChildTc/chromium/src/chrome/commohrean/ipc_chand] WARNINnel_wG: pipein.cc, lin error: 1e 341
+09: file z:/task_1560433010/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1138[Parent 14008, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1560433010/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1560433010/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2796, Chrome_ChildThread] WARNING1561182772766	Marionette	INFO	Stopped listening on port 65447
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1561183547947	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ngjun\\AppData\\Local\\Temp\\rust_mozprofile.5RhnSKEdVgN4"
+1561183549137	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561183549137	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1561183549138	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561183549138	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561183554885	Marionette	INFO	Listening on port 49623
+1561183555130	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 9616, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1560433010/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1560433010/build/src/ipc/chromium/src/chrome/common/ipc_chann[Parent 9616, Geckoel_wi_IOThreadn.cc] WARNING: pipe , line 341error: 10
+9: file z:/task_1560433010/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1560433010/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2144, Chrome_Ch[Parent 9616, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1560433010/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1560433010/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12972, 1561183709420	Marionette	INFO	Stopped listening on port 49623
+
+###!!! [Child][MessageChannel::SendAndWait] Err[Parent 11360, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1560433010/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 11360, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1560433010/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1560433010/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13252, Chrome_Child[Parent 11360, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1560433010/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1560433010/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1004, Chrome_C1561183710595	Marionette	INFO	Stopped listening on port 49674
+[GPU
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Script warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/angularjs/1.2.0rc1/angular-sanitize.min.js, line 14: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.asx.com.au/app/ci/js/combined.app.8c319a73.js, line 4: ReferenceError: DJ is not defined
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://static.adsafeprotected.com/sca.17.4.95.js, line 32: Array.slice is deprecated; use Array.prototype.slice instead
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561074211915%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context18' can't be sent as the connection is closed."
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 3660, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1560433010/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9748, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1560433010/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 97[Parent 3660, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1560433010/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1560433010/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11800, Chrome_Chil[Parent 3660, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1560433010/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1560433010/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 60721561184265991	Marionette	INFO	Stopped listening on port 49722
+[G
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1561200136161	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ngjun\\AppData\\Local\\Temp\\rust_mozprofile.o0ljAdlU6r8R"
+1561200171444	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ngjun\\AppData\\Local\\Temp\\rust_mozprofile.6eO3m3OV9DTQ"
+1561200171756	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561200171756	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1561200171757	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561200171757	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561200172904	Marionette	INFO	Listening on port 60457
+1561200173052	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 15320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1560988207/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 920,[Child  Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1560988207/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 920, Chrome_Ch[Parent 11220, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1560988207/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7264, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1560988207/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7264, Chrome_ChildThread1561200179791	Marionette	INFO	Stopped listening on port 60457
+[GPU 97
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1561200197721	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ngjun\\AppData\\Local\\Temp\\rust_mozprofile.qtwRTBvYxqI7"
+1561200198042	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561200198042	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1561200198042	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561200198042	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561200199182	Marionette	INFO	Listening on port 60492
+1561200199329	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 9552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1560988207/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341[Child 17204, Ch
+rome_ChildThr[Childead] WARNING: pipe error: 109: file z:/task_1560988207/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17204,[Parent 15420, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1560988207/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1560988207/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6536, Chrome_ChildThread] WARNI1561200637934	Marionette	INFO	Stopped listening on port 60492
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+xtension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561200259325	Marionette	INFO	Listening on port 60528
+1561200259743	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/angularjs/1.2.0rc1/angular-sanitize.min.js, line 14: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.asx.com.au/app/ci/js/combined.app.8c319a73.js, line 4: ReferenceError: DJ is not defined
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 5112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_156[Parent 1435096, G88207/ecko_Ibuild/src/OThreipc/chromiumad/src/chrome/common/ipc_channe] WARl_win.cc, linNIe 341NG: pipe error: 109: 
+file z:/task_1560988207/build[Child 5112, Chrom/src/ipec/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1560988207/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2896, Chro[Parent 14356, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1560988207/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1560988207/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6784, Chrome_ChildThrea1561200266524	Marionette	INFO	Stopped listening on port 60528
+[GPU 14
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
