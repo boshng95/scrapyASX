@@ -35,7 +35,7 @@ from selenium import webdriver
 import psycopg2
 ```
 
-# Documentation of ZendeskCodingChallenge
+# Documentation of ScrapyASX
 
 ### testing.py
 USERPATH\PycharmProjects\61FinTechChallenge\ASXAnnoucement\ASXAnnoucement\spiders\testing.py
